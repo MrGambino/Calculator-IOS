@@ -1,4 +1,3 @@
-# Calculator
 # Calculator IOS Snapshots
 
 Splashscreen
