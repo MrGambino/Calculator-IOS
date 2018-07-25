@@ -1,0 +1,8 @@
+
+App Thinning Size Report for All Variants of Advanced Calculator
+
+Variant: Advanced Calculator-iPhone X.ipa
+Supported devices: iPhone X
+App + On Demand Resources size: 2.4 MB compressed, 6.7 MB uncompressed
+App size: 2.4 MB compressed, 6.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
