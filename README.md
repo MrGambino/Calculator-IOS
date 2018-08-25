@@ -1,5 +1,7 @@
-# Calculator IOS Snapshots
+# Calculator
+*Supports only iPhone X on IOS 10 or Higher* 
 
+# Screenshots 
 
 ### Homescreen
 
