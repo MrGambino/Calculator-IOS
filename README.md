@@ -1,5 +1,5 @@
 # Calculator
-*Supports only iPhone X on IOS 10 or Higher* 
+*Supports only iPhone X on IOS 11.4 or Higher* 
 
 # Screenshots 
 
